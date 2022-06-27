@@ -11,3 +11,4 @@ Added a script to duplicate last line
 Added a script to delete files with .js ext
 Added a script to count the numbers of directories
 Added script to display 10 newest file
+Added a csript that print unique words
