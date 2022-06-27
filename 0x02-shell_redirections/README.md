@@ -18,3 +18,4 @@ Added a script to display what is next
 Added a script to add some word
 Added a script that display all lines of a file that start with a letter
 Added a script that replace A and Z
+Added to remove all letter c from input
