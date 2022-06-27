@@ -10,3 +10,4 @@ Added a script write into ls_cwd_content
 Added a script to duplicate last line
 Added a script to delete files with .js ext
 Added a script to count the numbers of directories
+Added script to display 10 newest file
