@@ -14,3 +14,4 @@ Added script to display 10 newest file
 Added a csript that print unique words
 Added a cript that find particular word
 Added a script that counts words
+Added a script to display what is next
