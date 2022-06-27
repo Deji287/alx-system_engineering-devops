@@ -1,2 +1,3 @@
-Script to print hello world
-Added a confused smiley
+Added script to print Hello World
+Added a script to display a confused smiley
+Added a script to display /etc/passwd
