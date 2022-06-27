@@ -22,3 +22,4 @@ Added to remove all letter c from input
 Added a script that reverse file input
 Added a script that displays all users and their home directories
 Added a script that finds all empty files and directories in the current directory
+Added script that lists all the files with a .gif extension in the current directory
