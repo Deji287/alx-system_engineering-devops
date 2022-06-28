@@ -8,3 +8,4 @@ Create a script that creates a new local variable.
 Wrote a script that prints the result of the addition of 128
 Create a script that creates a new global variable.
 Wrote a script that prints the result of POWER divided by DIVIDE
+Wrote a script that displays the result of BREATH to the power LOVE
