@@ -13,3 +13,4 @@ Wrote a script that converts a number from base 2 to base 10
 Created a script that prints all possible combinations of two letters, except oo
 Wrote a script that prints a number with two decimal places
 Wrote a script that converts a number from base 10 to base 16
+Wrote a script that encodes and decodes text using the rot13 encryption
